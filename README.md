@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dkaman79
+- 👋 Hi, I’m Dharani
 - 👀 I’m interested in ... Data Science & ML
 - 🌱 I’m currently learning ...Mathematics & Computing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Web Dev projects
 - 📫 How to reach me ... dkaman79@gmail.com
 
 <!---
