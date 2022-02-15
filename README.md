@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dharani
 - 👀 I’m interested in All things Software
-- 🌱 I’m currently learning MAthematics & Computing at NIT Agartala.
+- 🌱 I’m currently learning Mathematics & Computing at NIT Agartala.
 - 💡Tech stack that I work on are JavaScript, React, NodeJs, Express, MongoDB. 
 - 📫 How to reach me ... dkaman79@gmail.com
 
