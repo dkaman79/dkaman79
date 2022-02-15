@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dharani
-- 👀 I’m interested in ... Data Science & ML
-- 🌱 I’m currently learning ...Mathematics & Computing
-- 💞️ I’m looking to collaborate on ... Web Dev projects
+- 👀 I’m interested in All things Software
+- 🌱 I’m currently learning MAthematics & Computing at NIT Agartala.
+- 💡Tech stack that I work on are JavaScript, React, NodeJs, Express, MongoDB. 
 - 📫 How to reach me ... dkaman79@gmail.com
 
 <!---
