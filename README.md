@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dharani
-- 👀 I’m interested in All things Software
+- 👋 Hi, I’m Dharanidhar Kaman
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mathematics & Computing at NIT Agartala.
 - 💡Tech stack that I work on are JavaScript, React, NodeJs, Express, MongoDB. 
 - 📫 How to reach me ... dkaman79@gmail.com, Ph- +917086704958
